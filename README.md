@@ -8,7 +8,7 @@ The individual project you create for this course will use a service created by 
 # Microservice:
    When currency is selected a call to the microservice is made and then populates a box with information related to that currency.
    
-   Created by Dana Yarges
+   Microservice created by Dana Yarges.
 
 # Demo:
 
